@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seinkim89-grameen.github.io/sitemap.xml
